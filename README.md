@@ -9,3 +9,7 @@ LeetCode
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/Pow(x%2C%20n).cpp)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/plusOne.cpp)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/addBinary.cpp)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/climbingStairs.cpp)|Easy|
+|78|[Subsets](https://leetcode.com/problems/subsets/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/subsets.cpp)|Medium|
+|79|[Word Search](https://leetcode.com/problems/word-search/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/wordSearch.cpp)|Medium|
+
