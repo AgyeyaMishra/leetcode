@@ -12,4 +12,7 @@ LeetCode
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/climbingStairs.cpp)|Easy|
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/subsets.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/wordSearch.cpp)|Medium|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/sameTree.cpp)|Easy|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/binaryTreeZigzagLevelOrderTraversal.cpp)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/constructBinaryTreeFromInorderAndPostorderTraversal.cpp)|Medium|
 
