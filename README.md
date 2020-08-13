@@ -16,6 +16,9 @@ LeetCode
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/binaryTreeZigzagLevelOrderTraversal.cpp)|Medium|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/constructBinaryTreeFromInorderAndPostorderTraversal.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/binaryTreeLevelOrderTraversalII.cpp)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/pascalsTriangleII.cpp)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/validPalindrome.cpp)|Easy|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/wordBreakII.cpp)|Hard|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/reverseWordsInAString.cpp)|Medium|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/findMinimumInRotatedSortedArrayII.cpp)|Hard|
 
