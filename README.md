@@ -21,4 +21,8 @@ LeetCode
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/wordBreakII.cpp)|Hard|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/reverseWordsInAString.cpp)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/findMinimumInRotatedSortedArrayII.cpp)|Hard|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/excelSheetColumnNumber.cpp)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/reverseBits.cpp)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/removeLinkedListElements.cpp)|Easy|
+
 
