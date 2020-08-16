@@ -24,5 +24,11 @@ LeetCode
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/excelSheetColumnNumber.cpp)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/reverseBits.cpp)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/removeLinkedListElements.cpp)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/countPrimes.cpp)|Easy|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/courseScheduleII.cpp)|Medium|
+|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/designAddAndSearchWordsDataStructure.cpp)|Medium|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/powerOfTwo.cpp)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/addDigits.cpp)|Easy|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/singleNumberIII.cpp)|Medium|
 
 
