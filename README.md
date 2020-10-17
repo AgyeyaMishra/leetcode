@@ -34,7 +34,7 @@ LeetCode
 |274|[H-Index](https://leetcode.com/problems/h-index/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/hIndex.cpp)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/bestTimeToBuyAndSellStockWithCooldown.cpp)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/powerOfThree.cpp)|Easy|
-|342|[Power of Four](https://leetcode.com/problems/word-search/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/powerOfFour.cpp)|Easy|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/powerOfFour.cpp)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/topKFrequentElements.cpp)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/sumOfTwoIntegers.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](https://github.com/AgyeyaMishra/leetcode/blob/master/algorithms/cpp/firstUniqueCharacterInAString.cpp)|Easy|
